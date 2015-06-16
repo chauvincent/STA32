@@ -1,0 +1,13 @@
+Problem 2:,,,,,,,
+,Min,Mean,Variance,Mode,,,
+Your Function,0,0,0,0,,,
+R Function,0,0,0,NA,,,
+,,,,,,,
+Problem 3:,,,,,,,
+n,100,1000,10000,True Value,,,
+Probability,0,0,0,0,,,
+,,,,,,,
+Problem 4:,,,,,,,
+,P(A),P(B),P(AUB),P(AcUB),P(A&B),P(A|B),P(A|Bc)
+n=100,0,0,0,0,0,0,0
+n=100000,0,0,0,0,0,0,0
